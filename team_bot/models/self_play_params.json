@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "algorithm": "paired_self_play_parameter_search",
+  "params": {
+    "runway": 35.0,
+    "lane": 0.36,
+    "space_weight": 0.25,
+    "lane_weight": 0.14,
+    "danger_weight": 3.0,
+    "shot_threshold": 35.0,
+    "shot_risk": 100.0,
+    "release_distance": 10.5,
+    "defense_blend": 0.72
+  }
+}
